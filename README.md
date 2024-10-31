@@ -11,12 +11,7 @@ modified:
 - relative small model like qwen2.5 11b  can't generate  pairs of alternating (speaker, message). so i used instructor library to generate  strucuted output.
 
 ##  generated podcast file
-
-<audio controls>
-  <source src="assets/podcast.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
+[Download podcast.mp3](assets/podcast.mp3)
 
 
 
